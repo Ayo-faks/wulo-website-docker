@@ -17,8 +17,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Free and Open-Source",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "AI-Powered Document Review*",
+    paragraph: "Automate and accelerate your document review process with real-time collaboration and AI-driven insights.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -38,8 +38,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Modern Design",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Advanced Intelligent Legal Research",
+    paragraph: "Leverage AI-driven search algorithms to access precise legal information quickly and efficiently.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -91,8 +91,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "SaaS Starter Kit",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Smart Q&A and Analytics",
+    paragraph: "Get accurate answers to complex legal questions with our intelligent Q&A system, powered by natural language processing.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -124,8 +124,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "All Essential Integrations",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Automated Document Writing",
+    paragraph: "Transform your document creation process with customizable templates and seamless integration.",
     btn: "Learn More",
     btnLink: "/#",
   },

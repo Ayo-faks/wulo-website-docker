@@ -15,14 +15,9 @@ const About = () => {
                   Brilliant Toolkit to Build Next.js SaaS Websites.
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                Wulo is an AI-powered legal assistant designed to revolutionize your legal workflow. With features like advanced AI-driven research, intelligent analytics, exceptional Q&A capabilities, and automated process writing. 
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+                  Wulo leverages the latest AI technologies to enhance efficiency and precision in your legal practice.
                 </p>
 
                 <a
